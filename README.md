@@ -15,11 +15,12 @@ The Kaggle version of the dataset was obtained from the UCI dataset.
 
 
 # Environments
-Python >= 3.6
-numpy >= 1.14.3
-pandas >= 0.23.0
-scikit-learn >= 0.19.1
-xgboost == 0.72
+1. Python >= 3.6
+2. numpy >= 1.14.3
+3. pandas >= 0.23.0
+4. scikit-learn >= 0.19.1
+5. xgboost == 0.72
+
 All the python packages used are mentioned in the jupyter notebook "Predict_Heart_Disease.ipynb"
 
 
