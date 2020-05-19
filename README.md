@@ -1,5 +1,5 @@
 # Predicting_Heart_Disease
-## Part of Udacity's Machine Learning Nanodegree Program
+Project: Udacity's Machine Learning Nanodegree Program
 
 
 ## Topic: Predicting the presence of Heart Disease in patients
